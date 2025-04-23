@@ -9,6 +9,7 @@ using Utilities;
 //hello Салют
 //How are you? Хорошо мая
 //i'm fine Твоя как поживает)
+//and how are you?
 namespace Controller
 {
     public class BotController
